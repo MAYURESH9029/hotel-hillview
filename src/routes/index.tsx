@@ -8,7 +8,7 @@ import restaurant1 from "@/assets/restaurant1.jpg.asset.json";
 import restaurant2 from "@/assets/restaurant2.jpg.asset.json";
 import kebab from "@/assets/food-kebab.jpg.asset.json";
 import chicken from "@/assets/food-chicken.jpg.asset.json";
-import skewers from "@/assets/food-skewers.jpg.asset.json";
+import restaurant2 from "@/assets/restaurant2.jpg.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
